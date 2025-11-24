@@ -37,9 +37,9 @@ Inspired by the AI-Native Era book, especially the opening chapter:
 -   
 - **Task 2:** Official submission: theory + practical with screenshots, submit PDF or .md, MCQs answer instructions.
 
- **Task 3*: Research Gemini 3.0 updates, understand its new capabilities (coding, automation, multimodal analysis, long-context processing), and answer short research questions based on the improvements.
+  **Task 3:** Research Gemini 3.0 updates, understand its new capabilities (coding, automation, multimodal analysis, long-context processing), and answer short research questions based on the improvements.
 
-**Task 4*: Connect Context7 MCP Server to Gemini CLI and build a Study Notes Summarizer & Quiz Generator Agent. Upload PDFs to get summarized notes and automatically generated quizzes for effective learning.
+  **Task 4:** Connect Context7 MCP Server to Gemini CLI and build a Study Notes Summarizer & Quiz Generator Agent. Upload PDFs to get summarized notes and automatically generated quizzes for effective learning.
   
 
 
