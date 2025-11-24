@@ -33,9 +33,9 @@ Inspired by the AI-Native Era book, especially the opening chapter:
 
 ### Start tasks 🧠
 
-- **Task 1:** Learn AI-Driven Development, understand October 2025 AI Turning Point, key concepts (AI agents, EvDD, TDD, productivity), and answer self-test MCQs.
--   
-- **Task 2:** Official submission: theory + practical with screenshots, submit PDF or .md, MCQs answer instructions.
+ **Task 1:** Learn AI-Driven Development, understand October 2025 AI Turning Point, key concepts (AI agents, EvDD, TDD, productivity), and answer self-test MCQs.
+    
+ **Task 2:** Official submission: theory + practical with screenshots, submit PDF or .md, MCQs answer instructions.
 
   **Task 3:** Research Gemini 3.0 updates, understand its new capabilities (coding, automation, multimodal analysis, long-context processing), and answer short research questions based on the improvements.
 
